@@ -1,0 +1,26 @@
+[general]
+name=Plugin_formulaire
+description=this plugin is awesome !
+category=Vector
+hasProcessingProvider=True
+about=flore formulaire
+icon=resources/images/default_icon.png
+tags=flore, faune
+
+# credits and contact
+author=Benoit
+email=benoit.chopin@auddice.com
+homepage=<TODO>/pages
+repository=<TODO>
+tracker=None
+
+# QGIS context
+deprecated=False
+experimental=True
+plugin_dependencies=
+qgisMinimumVersion=3.44
+qgisMaximumVersion=3.45
+
+# versioning
+version=0.1.0
+changelog=
